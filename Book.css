@@ -56,12 +56,22 @@ ul li {
 }
 
 footer {
-    margin-top: 20px;
+    margin-top: 15px;
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 5px 0;
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+.book{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.descript{
+    margin-bottom: 170px;
+    font-family:cursive;
+    font-size: 20px;
 }
