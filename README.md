@@ -1,7 +1,7 @@
 Book
 
 #### what?
-
+Book recommendation websites are platforms designed to help readers discover new books based on their preferences.
 
 
 #### Why?
